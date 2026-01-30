@@ -5,4 +5,5 @@
 int main()
 {
 	std::cout << "hola mundo en c++" << std::endl;
+	getch();
 }
